@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    background-color: #fff;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.main{
+    width: 60%;
+}
+.hourly{
+    width: 35%;
+}
+.daily{
+    width: 100%;
+}
+
